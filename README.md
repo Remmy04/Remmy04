@@ -13,6 +13,6 @@ I'm a Computer Science student from Malaysia 🇲🇾, just starting my journey 
 - Learn web development and explore other technologies
 - Collaborate with others and contribute to open-source someday
 
-🐣 **Every great developer once started where you are. You’re already ahead by showing up.**  
+🐣 **"Every great developer once started where you are. You’re already ahead by showing up."**  
 
 Thanks for visiting my GitHub profile! 😊
