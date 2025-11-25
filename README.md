@@ -53,11 +53,12 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🌱 Soft Skills
-- Leadership (led multiple groups of 10–20 members)  
-- Problem Solving & Critical Thinking  
-- Strong Documentation & Reporting  
-- Communication & Team Collaboration  
+### 🌱 Soft Skills  
+- Demonstrated **leadership**, having guided multiple project teams of 10–20 members  
+- Strong **problem-solving** and analytical thinking in both technical and academic challenges 
+- Excellent **documentation**, technical writing, and reporting skills  
+- Effective **communication** and **team collaboration** in group-based and cross-functional projects  
+ 
 
 ---
 
