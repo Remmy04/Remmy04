@@ -105,17 +105,23 @@ Weather classification using Decision Tree & Random Forest; Supercomputer resear
 
 <p align="center">
   <img
+    src="https://streak-stats.demolab.com?user=Remmy04&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Remmy04&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats-nine-phi-19.vercel.app/api?username=Remmy04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
     alt="GitHub Stats"
   />
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remmy04&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-nine-phi-19.vercel.app/api/top-langs/?username=Remmy04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
-
 
 ---
 
