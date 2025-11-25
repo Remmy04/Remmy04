@@ -112,7 +112,7 @@ Weather classification using Decision Tree & Random Forest; Supercomputer resear
 
 # 🐍 **Contribution Snake Animation**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Remmy04/Remmy04/output/github-contribution-grid-snake.svg" />
+  <img src="./github-contribution-grid-snake.svg" />
 </p>
 
 ---
