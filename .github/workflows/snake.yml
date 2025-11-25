@@ -2,16 +2,15 @@ name: Generate GitHub contribution snake
 
 on:
   schedule:
-    # Runs every day at midnight UTC
+    # Run every day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # allow the action to push to this repo
 
     steps:
       - name: Checkout repo
@@ -21,13 +20,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Remmy04
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push
