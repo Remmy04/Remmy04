@@ -113,12 +113,12 @@ Weather classification using Decision Tree & Random Forest; Supercomputer resear
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats-remmy04s-projects.vercel.app/api?username=Remmy04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1"
+    src="https://github-readme-stats-remmy04s-projects.vercel.app/api?username=Remmy04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=2"
     alt="GitHub Stats"
   />
   <img
     width="48%"
-    src="https://github-readme-stats-remmy04s-projects.vercel.app/api/top-langs/?username=Remmy04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1"
+    src="https://github-readme-stats-remmy04s-projects.vercel.app/api/top-langs/?username=Remmy04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=2"
     alt="Top Languages"
   />
 </p>
