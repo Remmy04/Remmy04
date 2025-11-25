@@ -2,7 +2,6 @@ name: Generate GitHub contribution snake
 
 on:
   schedule:
-    # Run every day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -15,7 +14,6 @@ jobs:
 
     steps:
       - name: Checkout repo
-      # This action checks out your repository's code so the workflow can access it.
         uses: actions/checkout@v4
 
       - name: Generate snake SVGs
@@ -23,8 +21,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-neon.svg?color_snake=#00ff99&color_dots=#0b1020,#1c2541,#27496d,#47e4bb,#f5f5f5
+            dist/github-contribution-grid-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Deploy snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
