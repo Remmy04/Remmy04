@@ -6,11 +6,12 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # allow the action to push to this repo
 
     steps:
       - name: Checkout repo
@@ -19,7 +20,7 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Remmy04
+          github_user_name: ${{ github.repository_owner }}
           outputs: github-contribution-grid-snake.svg
 
       - name: Commit and push snake
