@@ -53,6 +53,9 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
+### 🧩 Additional Tools & AI Platforms
+*I also work extensively with modern AI and productivity tools, including ChatGPT 5.1, Gemini 3.0, Copilot, DeepSeek, Claude, NotebookLM, Figma AI, JamAI, Firebase Database Studio, WIX Studio, Google Colab, Apache NetBeans, and Oracle VirtualBox. I enjoy learning new tools quickly and actively use AI to enhance productivity, problem-solving, and development workflows.*
+
 ### 🌱 Soft Skills  
 - Demonstrated **leadership**, having guided multiple project teams of 10–20 members  
 - Strong **problem-solving** and analytical thinking in both technical and academic challenges 
