@@ -64,6 +64,8 @@
 
 <h1 align="center">🚀 Highlighted University Projects</h1>
 
+<div align="center">
+  
 <table width="100%">
   <tr>
     <td width="5%">📄</td>
@@ -113,6 +115,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
