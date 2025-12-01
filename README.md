@@ -163,11 +163,25 @@
 <h1 align="center">🤝 Connect With Me</h1>
 
 <p align="center">
+  <!-- Email -->
+
   <a href="mailto:qyean007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-qyean007%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-F5E3F9?style=for-the-badge&logo=gmail&logoColor=4b5563" alt="Email" />
   </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hngqiyean/">
+    <img src="https://img.shields.io/badge/LinkedIn-9F9DF5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/Remmy04">
-    <img src="https://img.shields.io/badge/GitHub-Remmy04-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/rem_the_remmy">
+    <img src="https://img.shields.io/badge/Discord-C7D2FE?style=for-the-badge&logo=discord&logoColor=4b5563" alt="Discord" />
   </a>
 </p>
 
