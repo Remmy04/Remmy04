@@ -163,8 +163,8 @@
 <h1 align="center">🤝 Connect With Me</h1>
 
 <p align="center">
+  
   <!-- Email -->
-
   <a href="mailto:qyean007@gmail.com">
     <img src="https://img.shields.io/badge/Email-F5E3F9?style=for-the-badge&logo=gmail&logoColor=4b5563" alt="Email" />
   </a>
